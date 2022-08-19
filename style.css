@@ -1,0 +1,44 @@
+.main {
+    width: 90%;
+    background-color: white;
+    margin: 0 auto;
+}
+.google {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-top: 10%;
+}
+.search {
+    background-color: lightgrey;
+    text-align: center;
+}
+.prt1 {
+    background-color: aquamarine;
+    width: 37%;
+    height: 68px;
+    text-align: center;
+    padding-top: 10px;
+    margin: 2px 5px;
+    float: left;
+}
+.prt2 {
+    background-color: aquamarine;
+    text-align: center;
+    width: 19%;
+    height: 78px;
+    float: left;
+    margin: 2px 5px;
+}
+.prt3 {
+    background-color: aquamarine;
+    text-align: center;
+    /* width: 41%; */
+    width: 504px;
+    float: left;
+    margin: 2px 5px;
+}
+.foot {
+    text-align: center;
+    margin-top: 10%;
+}
